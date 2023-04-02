@@ -3,7 +3,9 @@
 
 python环境运行
 需要自己安装requests库
-
+```bash
+pip3 install requests
+```
 推荐使用openwrt软路由
 
 运行后log图示：
